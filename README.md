@@ -1,1 +1,1 @@
-# codingtest
+# exercises
